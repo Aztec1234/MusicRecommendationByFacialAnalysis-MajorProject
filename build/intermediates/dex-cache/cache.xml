@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="071364c6fcb3772aef9209b9db621c61a0686197">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-12.0.1_9b20475b02376c079262fafcea8509568e656324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_32014779f680a33e4b21d22f2ba340584e8668a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.2\20f6463eb19ac61960c5d91a094c2f4f0727dc2e\okhttp-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\okhttp-2.7.2_3587827a4daaa87f10b7397d92bf9d610d586f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_1960c06a7b22c37ba5db99f47bc0e859645bf5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4c9dde3866f60967d73035b3445bb0f703429612">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-12.0.1_ed91ba54f3fd1f1c8766b1664031d85cb9cd44ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66c2e87b6c3fc49891d1d0c05474a159390b0373">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-12.0.1_b144a2a45461e9f0a9c4e2db5ac4eb5761f41bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_21aee91c88fa88cf85b1a564f485530e7888d81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.0_c57d8aa2ad3f19add9a79350393311807e555ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-firestore\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2bd33fbbf978c36e040fe14d726758e68605d2e">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-firestore-12.0.1_4c0d0997d7eeaf9302d0e5bb9bcb064aa3987104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_31ab6ba56adf354ed428e54f4b57ab6d9617243b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_b7304dcc70376759f01f71e9dfa3369a353e04d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b01381b98fecbc99b2b6856c2cef4594ce4b37e8">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-12.0.1_7e10e12aab607cc6f5642f6b55b0b051d0e0e050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-12.0.1_610a9808dea9f8186380955650123c8282ba9472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-12.0.1_117aaa2e628e4cb8cb734572c763cbea1c191ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="410ecd974ba7008f743e611ea7fe749321517231">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-12.0.1_3f911c6255e30944c8479d83e996578c56ad68f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_c61d8fdcd9c297efb54a7b081302eb4da150643d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_66e7888debc5f655ad9cc7c28487c4f184453e41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_d090ad6771571c9bd2b1a47cbf9665ecd5a9b1c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_a9971a5427cee77c189e40a3ad86e06ae1109003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43777ad2c3f87b64ced35a875ce2befa178a23da">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-12.0.1_c66ff88f44d8e8c8c024fc714e446590ded82a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-12.0.1_e8028fa0fccdbc1dc4f6c515200b40f7f78c3207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_8196e6a834fdbdff3dccb04d1ac36bd2a450cdf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_f9bb93ec55f3dceceb22c87eb68ffcb0e80999c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_445dbeb7bde24ca57b698c1dba4e8915dbd476bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_8676febceb4a897e68f46849089899b11f91ef4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\12.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-12.0.1_aaa5b5b687a7528395f0d3de1148b09a16e2f6d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_6ec2ad32ce971c28b76cbee3033b5f7bb114e1da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_5f31c149fbbf7953621e8eb7037d09f813992873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ayush\Desktop\MajorProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_02fa5be356cab5e769bc68466979cea5a90f316c.jar" />
+    </item>
+
+</items>

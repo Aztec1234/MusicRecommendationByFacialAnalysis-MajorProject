@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "191684046242",
+    "firebase_url": "https://majorproject-ee122.firebaseio.com",
+    "project_id": "majorproject-ee122",
+    "storage_bucket": "majorproject-ee122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191684046242:android:74375b4ebaa2315d",
+        "android_client_info": {
+          "package_name": "com.example.birat.major_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191684046242-tk3bq6msik1dsgqeprbtoil2sk41v9gd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "191684046242-tk3bq6msik1dsgqeprbtoil2sk41v9gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWN89sFp3d7DWDqtVSMeplcn-fHrKRUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
